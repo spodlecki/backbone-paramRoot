@@ -1,0 +1,22 @@
+{
+  "name": "backbone-paramRoot",
+  "main": "backbone-paramRoot.js",
+  "version": "0.0.1",
+  "authors": [
+    "s.podlecki@gmail.com"
+  ],
+  "description": "Adds a paramRoot option to Backbone.sync for Rails' compatability",
+  "keywords": [
+    "backbone",
+    "sync",
+    "rails"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
