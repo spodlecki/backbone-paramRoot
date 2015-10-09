@@ -5,7 +5,7 @@
   "authors": [
     "s.podlecki@gmail.com"
   ],
-  "description": "Adds a paramRoot option to Backbone.sync for Rails' compatability",
+  "description": "Adds a paramRoot option to Backbone.sync for Rails' compatibility",
   "keywords": [
     "backbone",
     "sync",
