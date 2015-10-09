@@ -1,6 +1,7 @@
 {
   "name": "backbone-paramRoot",
   "main": "backbone-paramRoot.js",
+  "homepage": "https://github.com/spodlecki/backbone-paramRoot",
   "version": "0.0.1",
   "authors": [
     "s.podlecki@gmail.com"
